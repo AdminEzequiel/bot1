@@ -45,9 +45,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ╰──────────╮
 ╭──────────╯
 ┝━〢⎙ INFO/DONO
-╎
-╎𖢼⩺ ${prefix}Fotomenu (MARCAR-IMG) 
-╎𖢼⩺ ${prefix}Gifmenu (MARCAR) 
+╎ 
 ╎𖢼⩺ ${prefix}InfoBemvindo
 ╎𖢼⩺ ${prefix}Infopalavrão
 ╎𖢼⩺ ${prefix}Infolistanegra
